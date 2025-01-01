@@ -21,6 +21,7 @@ author: Peter Wilkins
 
 navbar-links:
   About Me: "aboutme"
+  Fantastic Solutions: "fs"
   Activities: "activities"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"

@@ -28,7 +28,7 @@ This sport is fast growing in popularity as it isn't as physically demanding as 
 
 The hand held wing allows you to manage the power of the wind more easily and provides floation when you take a dip.
 
-Still a good workout so I recommend you use your goals as motivation to get in shape first, you will thank yourself.
+Still a good workout so I recommend you use your goals as motivation to get in shape first, you will thank yourself later.
 
 ### Windfoiling lessons and rental
 
