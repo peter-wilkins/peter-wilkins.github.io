@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Peter Wilkins
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This site is basically a record of my permaculture projects and ramblings.
 
-What else do you need?
+Subjects include offgrid living, sea farming, tree nurseries, etc.
 
-### My story
+I live near Weymouth in the UK, a stones throw from Portland Harbour.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you find any of it interesting and want to collaberate please get in touch.
+
+I teach sailing, windsurfing, wingfoiling on a barter basis (money is so boring). Prefer it if there is a personal angle.
+
+Examples of goods or services I might accept in return:
+- Cad drafting
+- building services
+- gardening
+- sculptures
+- ...
+
+I'm open to suggestions so drop me a line
